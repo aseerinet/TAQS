@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Arab Weather Pro: Climate Maps",
+  "description": "Professional live maps for Arab regions, offering daily forecasts, rain tracking, and global meteorological data via an intuitive interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
